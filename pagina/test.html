@@ -9,26 +9,33 @@
 </head>
 <body>
     <header>
-        <picture>
-         
-                 <img class="logo" src="../assets/lOGO.png" alt="logo"> 
-     
-         </picture> 
-         <h1>OrientaU</h1>
-         <form action="/buscar" method="get">
-             <input type="text" id="search-box" name="q" placeholder="Buscar...">
-             <input type="submit" id="search-button" value="Buscar">
-           </form>
-     
-         <nav>
-             <ul>
-                 <li><a href="#inicio">Inicio</a></li>
-                 <li><a href=pagina/test.html target="_blank">Test Vocacional</a></li>
-                 <li><a href="#explorar">Explorar Carreras</a></li>
-                 <li><a href="#consejos">Consejos y Recursos</a></li>
-                 <li><a href="#historias">Historias de Éxito</a></li>
-             </ul>
-         </nav>
+       
+      <nav>
+                  
+        <input type="checkbox" id="check">
+     <label for="check" class="checkbtn">
+
+      <i class="fas fa-bars"></i>
+
+        </label>
+
+        <a href="#" class="enlace">
+
+            <img src="assets/lOGO.png" alt="" class="logo">
+
+        </a>
+
+        <ul>
+
+          <li><a class="active" href="../index.html">Inicio</a></li>
+          <li><a href="test.html">Test Vocacional</a></li>
+          <li><a href="ExplorarCarreras.html">Explorar Carreras</a></li>
+          <li><a href="ConsejosyRecursos.html">Consejos y Recursos</a></li>
+          <li><a href="HistoriasdeExito.html">Historias de Éxito</a></li>
+
+        </ul>
+
+    </nav>
 
 </header>
 <main>
@@ -50,6 +57,32 @@
         </div>
       </div>
     </div>
+    <form id="test-form">
+      <section class="pregunta">
+        <h2>1. ¿Qué tipo de actividades disfrutas más?</h2>
+        <label>
+          <input type="radio" name="pregunta1" value="arte"> Arte
+        </label>
+        <label>
+          <input type="radio" name="pregunta1" value="tecnologia"> Tecnología
+        </label>
+        <label>
+          <input type="radio" name="pregunta1" value="ciencia"> Ciencia
+        </label>
+      </section>
+  
+      <section class="pregunta">
+        <h2>2. ¿Qué temas te resultan más interesantes?</h2>
+        <label>
+          <input type="radio" name="pregunta2" value="humanidades"> Humanidades
+        </label>
+        <label>
+          <input type="radio" name="pregunta2" value="negocios"> Negocios
+        </label>
+        <label>
+          <input type="radio" name="pregunta2" value="medicina"> Medicina
+        </label>
+      </section>
 </main>
 <footer class="footer">
     <p>© 2023 OrientaU, todos los derechos reservados.</p>
