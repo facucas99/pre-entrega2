@@ -8,10 +8,6 @@
 - **Profesión:** Desarrollador Web
 - **Experiencia:** HTML5, CSS3, SASS, Bootstrap
 
-## Descripción del Proyecto
-
-[Descripción detallada de tu proyecto aquí]
-
 ## Tecnologías Utilizadas
 
 - HTML5
@@ -29,7 +25,7 @@
 
 ## Contacto
 
-- Correo Electrónico: [tu@email.com]
-- LinkedIn: [linkedin.com/in/tuusuario]
+- Correo Electrónico: [facuncastro999@hotmail.com]
+- LinkedIn: [linkedin.com/in/facundo-castro-585b0522a/]
 
 ¡Gracias por visitar mi proyecto! Espero que encuentres útil y emocionante lo que he creado. ¡Hagamos cosas increíbles juntos en el mundo del desarrollo web!
