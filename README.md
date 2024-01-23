@@ -15,10 +15,6 @@
 - SASS
 - Bootstrap
 
-## Instalación y Uso
-
-[Instrucciones sobre cómo instalar y utilizar tu proyecto]
-
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna mejora, no dudes en crear un "issue" o enviar un "pull request".
